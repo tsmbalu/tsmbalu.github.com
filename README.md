@@ -1,10 +1,10 @@
 # Software Developer
 
-#### Technical Skills: 
+### Technical Skills 
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,spring,aws,html,css,mysql,elasticsearch,terraform,javascript,jQuery" />
-    <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,intellj,pycharm,windows,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,intellij,pycharm,windows,linux" /><br>
 </div>
 
 
