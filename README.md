@@ -7,8 +7,9 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,spring,aws,html,css,js,jquery,mysql,dynamodb,elasticsearch,terraform,selenium" />
-    <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,idea,pycharm,vscode,windows,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,idea,pycharm,vscode,windows,linux" />
 </div>
+<br>
 
 ## Education
 - M.Sc., Artificial Intelligence	 | Aston University (_September 2024_)	 			        		
