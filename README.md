@@ -34,12 +34,13 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 
 ## Certification
 
-<div style="display: flex; flex-direction: column">
-    <div style="flex-grow: 1; text-align: center; ">
+<link href='/assets/style/custom_style.css' rel='stylesheet'>
+<div class="parent">
+    <div class="child">
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65de2deb-1422-47d4-8a73-4612bd977719" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </div>
 
-    <div style="flex-grow: 1; text-align: center; ">
+    <div class="child">
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c67bb6ce-cd68-46e8-abc6-e18431f6e611" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </div>
 </div>

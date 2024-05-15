@@ -1,0 +1,17 @@
+.parent {
+  display: flex; /* displays flex-items (children) inline */
+}
+
+.child {
+  flex-grow: 1; /* each flex-item grows and takes 1/3 of the parent's width */
+  text-align: center;
+  border: 1px solid;
+}
+
+@media (max-width: 568px) { /* adjust to your needs */
+  .parent {flex-direction: column} /* stacks them vertically */
+  .child:first-child {order: 1} /* down 1 spot */
+  .child:last-child {order: -1} /* up 1 spot */
+  /* "order: 0" is by default, therefore :nth-child(2) stays where it is */
+  /* the order property only works with flexbox or grid */
+}
