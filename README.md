@@ -3,7 +3,7 @@
 #### Technical Skills: 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,struts,SpringBOOTaws,html,css,mysql,terraform" />
+    <img src="https://skillicons.dev/icons?i=java,python,spring,aws,html,css,mysql,terraform" />
     <img src="https://skillicons.dev/icons?i=github,git,javascript,vscode,eclipse" /><br>
 </div>
 
