@@ -1,5 +1,8 @@
 # Software Developer
 
+## About
+Professional Software Engineer with 9 years of experience, currently pursuing an M.Sc. in Artificial Intelligence at Aston University. I excel in leading engineering teams to deliver software products and possess strong skills in Java programming, DSA, system design, problem-solving, and interpersonal communication. I have hands-on experience in AWS Cloud and IaC frameworks like Terraform and Cloudformation.
+
 ## Technical Skills 
 
 <div align="center">
@@ -7,7 +10,6 @@
     <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,idea,pycharm,vscode,windows,linux" /><br>
 </div>
 
----
 ## Education
 - M.Sc., Artificial Intelligence	| Aston University (_September 2024_)	 			        		
 - B.E., Computer Science Engineering | New Prince Shri Bhavani College of Engineering and Technology (_March 2014_)
@@ -30,7 +32,7 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 
----
+## Contact
 <div align="center"> 
   <a href="mailto:tsmbalu@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
