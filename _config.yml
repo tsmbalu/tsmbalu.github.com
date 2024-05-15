@@ -1,5 +1,5 @@
 title: Balasubramani Murugan
-logo: assets/img/head_shot.JPG
+logo: /assets/img/head_shot.JPG
 # description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
