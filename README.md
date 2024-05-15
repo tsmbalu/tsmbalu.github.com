@@ -45,9 +45,9 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
     </div>
 
     <div class="child">
-        <div data-iframe-width="150" data-iframe-height="270">
+        <div style="height:270px; width:150px;">
             <a href="https://learn.nvidia.com/certificates?id=I1jSkZ1WS0KyRXAYQd7QMw" target="_blank">
-                <img src="https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container/nv_image.coreimg.100.850.png/1703060329053/nvidia-logo-vert.png" target="_blank" />
+                <img src="https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container/nv_image.coreimg.100.850.png/1703060329053/nvidia-logo-vert.png" target="_blank" style="display:block; padding-top: 30px;">
             </a>
             <p>Getting Started with Deep Learning</p>
         </div>
