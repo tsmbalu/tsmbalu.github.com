@@ -2,6 +2,11 @@
 
 #### Technical Skills: 
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,spring,springboot,aws,html,css,mysql,terraform" />
+    <img src="https://skillicons.dev/icons?i=github,git,javascript,vscode,eclipse" /><br>
+</div>
+
 
 ## Education
 - M.Sc., Artificial Intelligence	| Aston University (_September 2024_)	 			        		
