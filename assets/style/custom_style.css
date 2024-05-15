@@ -5,7 +5,6 @@
 .child {
   flex-grow: 1; /* each flex-item grows and takes 1/3 of the parent's width */
   text-align: center;
-  border: 1px solid;
 }
 
 @media (max-width: 568px) { /* adjust to your needs */
