@@ -11,7 +11,7 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 </div>
 
 ## Education
-- M.Sc., Artificial Intelligence	| Aston University (_September 2024_)	 			        		
+- M.Sc., Artificial Intelligence	 | Aston University (_September 2024_)	 			        		
 - B.E., Computer Science Engineering | New Prince Shri Bhavani College of Engineering and Technology (_March 2014_)
 
 ## Work Experience
