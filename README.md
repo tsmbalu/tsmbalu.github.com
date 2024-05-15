@@ -10,9 +10,6 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
     <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,idea,pycharm,vscode,windows,linux" /><br>
 </div>
 
-## Certification
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65de2deb-1422-47d4-8a73-4612bd977719" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ## Education
 - M.Sc., Artificial Intelligence	 | Aston University (_September 2024_)	 			        		
 - B.E., Computer Science Engineering | New Prince Shri Bhavani College of Engineering and Technology (_March 2014_)
@@ -34,6 +31,17 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
+## Certification
+
+<div style="display: flex; flex-direction: column">
+    <div style="flex-grow: 1; text-align: center; ">
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65de2deb-1422-47d4-8a73-4612bd977719" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+
+    <div style="flex-grow: 1; text-align: center; ">
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c67bb6ce-cd68-46e8-abc6-e18431f6e611" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+</div>
 
 ## Contact
 <div align="center"> 
