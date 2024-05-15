@@ -1,6 +1,7 @@
 # Software Developer
 
-#### Technical Skills: Java, Python, SQL, AWS
+#### Technical Skills: 
+
 
 ## Education
 - M.Sc., Artificial Intelligence	| Aston University (_September 2024_)	 			        		
@@ -23,3 +24,16 @@
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
+
+
+<div align="center"> 
+  <a href="mailto:tsmbalu@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/balasubramani-tsm/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://tsmbalu.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
