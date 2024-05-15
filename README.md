@@ -44,6 +44,7 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c67bb6ce-cd68-46e8-abc6-e18431f6e611" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </div>
 </div>
+<br>
 
 ## Contact
 <div align="center"> 
