@@ -4,7 +4,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,spring,aws,html,css,mysql,elasticsearch,terraform,javascript,jQuery" />
-    <img src="https://skillicons.dev/icons?i=github,git,bitbucket,CVS,maven,jenkins,confluence,jira,vscode,eclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,intellj,pycharm,windows,linux" /><br>
 </div>
 
 
