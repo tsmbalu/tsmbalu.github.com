@@ -32,7 +32,7 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-## Certification
+## Certificate
 
 <link href='/assets/style/custom_style.css' rel='stylesheet'>
 <div class="parent">
