@@ -48,6 +48,7 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
         <a href="https://learn.nvidia.com/certificates?id=I1jSkZ1WS0KyRXAYQd7QMw" target="_blank">
             <img src="https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container/nv_image.coreimg.100.850.png/1703060329053/nvidia-logo-vert.png" target="_blank" />
         </a>
+        <p>Getting Started with Deep Learning</p>
     </div>
 
 </div>
@@ -62,6 +63,6 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://tsmbalu.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
