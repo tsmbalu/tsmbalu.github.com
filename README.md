@@ -16,8 +16,8 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 
 ## Work Experience
 **Senior Lead @ Tata Communication (_January 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Designed, developed, and delivered the cloud file storage solutions NAS and CIFS within 6 months, speeding up storage provisioning for customers and removing the manual provisioning process.
+- Led the 12-member engineering team to achieve the deliverables and guide them on technical aspects and challenges. 
 
 **Senior Software Engineer @ Technicolor (_August 2021 - January 2023_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
