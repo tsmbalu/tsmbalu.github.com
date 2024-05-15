@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,idea,pycharm,vscode,windows,linux" /><br>
 </div>
 
-
+----
 ## Education
 - M.Sc., Artificial Intelligence	| Aston University (_September 2024_)	 			        		
 - B.E., Computer Science Engineering | New Prince Shri Bhavani College of Engineering and Technology (_March 2014_)
@@ -30,8 +30,7 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 
-
-##
+---
 <div align="center"> 
   <a href="mailto:tsmbalu@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
