@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=github,git,bitbucket,maven,jenkins,vscode,eclipse,idea,pycharm,vscode,windows,linux" /><br>
 </div>
 
-----
+---
 ## Education
 - M.Sc., Artificial Intelligence	| Aston University (_September 2024_)	 			        		
 - B.E., Computer Science Engineering | New Prince Shri Bhavani College of Engineering and Technology (_March 2014_)
