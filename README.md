@@ -13,7 +13,7 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 
 ## Education
 - M.Sc., Artificial Intelligence	 | Aston University (_September 2024_)	 			        		
-- B.E., Computer Science Engineering | New Prince Shri Bhavani College of Engineering and Technology (_March 2014_)
+- B.E., Computer Science Engineering	 | New Prince Shri Bhavani College of Engineering and Technology (_March 2014_)
 
 ## Work Experience
 **Senior Lead @ Tata Communication (_January 2023 - Present_)**
