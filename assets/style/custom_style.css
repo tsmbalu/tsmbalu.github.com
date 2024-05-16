@@ -9,10 +9,6 @@
   align-items: center;
 }
 
-@media (max-width: 568px) { /* adjust to your needs */
+@media (max-width: 568px) {
   .parent {flex-direction: column} /* stacks them vertically */
-  .child:first-child {order: 1} /* down 1 spot */
-  .child:last-child {order: -1} /* up 1 spot */
-  /* "order: 0" is by default, therefore :nth-child(2) stays where it is */
-  /* the order property only works with flexbox or grid */
 }
