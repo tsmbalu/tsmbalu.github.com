@@ -12,10 +12,10 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 <br>
 
 ## Education
-**M.Sc., Artificial Intelligence @ Aston University (_September 2024_)**
+**M.Sc., Artificial Intelligence @ Aston University (_September 2023 - September 2024_)**
 - **Relevant modules:** Machine Learning, Data Mining, Deep Learning, Robotics & Autonomous System and Multi-Agent Systems.
 
-**B.E., Computer Science Engineering @ New Prince Shri Bhavani College of Engineering and Technology (_March 2014_)**
+**B.E., Computer Science Engineering @ New Prince Shri Bhavani College of Engineering and Technology (_June 2010 - March 2014_)**
 - **Relevant modules:** : Data Structure, Programming Paradigms, Digital Principles and System Design, Computer Networks, Operating Systems, Database Management Systems, Web Technology and Artificial Intelligence
 
 ## Work Experience
