@@ -35,7 +35,7 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 ## Projects
 
 **Cloud Based Application for Map Overlaying and Data Analysis of Geographical Information @ Undergraduate Academic Project (_August 2013 - Febuaury 2014_)**
-- **Technologies Used**: Java, Amazon Web Services (DynamoDB, Kinesis), Google map API
+- **Technologies Used**: Java, Servlet, HTML, Amazon Web Services (DynamoDB, Kinesis), Google map API
 - Developed a cloud based application for storing, data analyzing and creating a customized map with the help of geographical information. Query the geographical data stored in the database with specific constraints to analyze the data and overlay the GPS coordinates on the Google map to provide a map to the user for the respective coordinates. The input for the application is in the form of the GPS
 coordinates (Longitude and Latitude) with specific information and is stored in the Amazon DynamoDB. DynamoDB is a fully managed NoSQL database service. Amazon Kinesis is a fully managed service for real-time processing of streaming data at massive scale. Kinesis stream is used for replicating the data in the two or more AWS regional server for enhance the availability of data. An android application is also developed to store the GPS coordinate in DynamoDB during the surveying process.
 
