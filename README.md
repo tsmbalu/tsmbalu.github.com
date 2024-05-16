@@ -57,8 +57,8 @@ coordinates (Longitude and Latitude) with specific information and is stored in 
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c67bb6ce-cd68-46e8-abc6-e18431f6e611" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </div>
 
-    <div class="child" style="height:270px; width:150px;">
-         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-host"nvidia_cert_embedding.html"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+    <div class="child">
+         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-host="nvidia_cert_embedding.html"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
     </div>
 
 </div>
