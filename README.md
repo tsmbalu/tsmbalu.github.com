@@ -58,7 +58,7 @@ coordinates (Longitude and Latitude) with specific information and is stored in 
     </div>
 
     <div class="child">
-         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-host="nvidia_cert_embedding.html"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+         <iframe src="/assets/embed/nvidia_cert_embedding.html" width="150" height="270" style="border:none;"></iframe>
     </div>
 
 </div>
