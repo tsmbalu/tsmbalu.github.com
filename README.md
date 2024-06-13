@@ -20,20 +20,26 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 
 ## Work Experience
 **Senior Lead @ Tata Communication (_January 2023 - Present_)**
-- Designed, developed, and delivered the cloud file storage solutions NAS and CIFS within 6 months, speeding up storage provisioning for customers and removing the manual provisioning process.
-- Led the 12-member engineering team to achieve the deliverables and guide them on technical aspects and challenges. 
+- Designed and implemented cloud storage solutions, accelerating cloud storage provisioning for customers and eliminating manual efforts in the provisioning and billing processes.
+- Led a 12-member engineering team, providing technical guidance and overcoming challenges. Our successful delivery of NAS and CIFS cloud file storage solutions within 6 months not only showcased my leadership skills but also significantly contributed to the product's success.
+- Collaborated with product owners and internal stakeholders to align system architecture, cloud resource provisioning, and billing process, resulting in an effective cloud solution for enterprise customers.
 
 **Senior Software Engineer @ Technicolor (_August 2021 - January 2023_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Designed and implemented highly available, scalable and reliable cloud architectures for TV analytics, enabling real-time monitoring of Android TV Box usage and performance for 3 telecom customers.
+- Collaborate with global security and network teams to evaluate and approve network architecture and establish a secure bridge between the corporate network and VPC to enhance data security and connectivity.
+- As a Cloud Subject Matter Expert, I conducted 3 cloud training sessions to mentor and guide teams to leveraging cloud services effectively for their projects.
 
 **Associate @ Cognizant (_March 2019 - August 2021_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Developed, implemented, enhanced, and deployed 12+ web services providing data products and blocks. Delivered 30+ enhancements and developed 1 web service from scratch.
+- Migrated and improved infrastructure for 12+ web services from CloudFormation to Terraform, enabling a multi-region and blue-green deployment strategy and achieving production deployment with zero downtime. Additionally, developed reusable Terraform modules for cross-organizational use.
+- Rearchitected a legacy batch processing service, simplifying it and saving an estimated 3+ hours of downtime per deployment, eliminating the need for late-night deployments.
+- Implemented a reverse proxy for a Chinese client, reducing web service response time from 3s to 40ms on average.
+- Automated the deployment process using AWS Step Functions for all web services, reducing tester manual effort.
 
 **Senior Software Engineer @ Mindtree (_October 2014 - March 2019_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Responsible for developing new features and fixing bugs for 2 Cloud SaaS applications. Design and developed 5 major features and 44+ enhancements.
+- Developed an automation tool for Japanese translation updates, ensuring seamless translation of user guide documentation and i18n properties integration, resulting in a 15% sales increase in Japan.
+- Developed a CI/Test Automation tool and framework that automated manual tasks, saving 25 hours of weekly testing and deployment effort and running 1200+ test cases in 4 hours.
 
 ## Projects
 
