@@ -1,4 +1,4 @@
-# Software Developer
+# Software Developer | Cloud Architect | AI & ML Engineer |
 
 ## About
 Professional Software Engineer with 9 years of experience, currently pursuing an M.Sc. in Artificial Intelligence at Aston University. I excel in leading engineering teams to deliver software products and possess strong skills in Java programming, DSA, system design, problem-solving, and interpersonal communication. I have hands-on experience in AWS Cloud and IaC frameworks like Terraform and Cloudformation.
@@ -21,7 +21,7 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 ## Work Experience
 **Senior Lead @ Tata Communication (_January 2023 - September 2023_)**
 - **Technologies**: Java, Spring Boot 2, Spring framework, Python, Spring Batch, Spring Security, Angular, MySQL, VMware EXSI, NetApp, HPE, Swiftstack, Caringo and AWS
-**Project Description**
+- **Project Description**
 	Our team is responsible for developing, maintaining and enhancing the IZO Private Cloud which provides a single orchestration platform to integrate, manage, and control the enterprise distributed IT environments.
 - **Roles & Responsibilities**
 	- Designed and implemented cloud storage solutions, accelerating cloud storage provisioning for customers and eliminating manual efforts in the provisioning and billing processes.
@@ -39,9 +39,9 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 
 **Associate @ Cognizant (_March 2019 - August 2021_)**
 - **Technologies**: Java 8, Spring Boot 2, Scala 2.11, Python 3.6, Spark, AWS, Terraform, Spark
-**Project Description**
+- **Project Description**
 	Our team is responsible for developing, enhancing & maintaining web-service/ micro-service which will be exposing data product/blocks over REST API by both internal/external customer. All of our web services will be fully deployed in AWS cloud. Our team size is 8 members size and working on agile methodology.
-**Roles & Responsibilities**
+- **Roles & Responsibilities**
 	- Developed, implemented, enhanced, and deployed 12+ web services providing data products and blocks. Delivered 30+ enhancements and developed 1 web service from scratch.
 	- Migrated and improved infrastructure for 12+ web services from CloudFormation to Terraform, enabling a multi-region and blue-green deployment strategy and achieving production deployment with zero downtime. Additionally, developed reusable Terraform modules for cross-organizational use.
 	- Rearchitected a legacy batch processing service, simplifying it and saving an estimated 3+ hours of downtime per deployment, eliminating the need for late-night deployments.
@@ -50,9 +50,9 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 
 **Senior Software Engineer @ Mindtree (_October 2014 - March 2019_)**
 - **Technologies**: Java 7 & 8, Struts 2, Spring MVC 4.0, JSP, Javascript, JQuery, HTML, CSS, MySQL, Selenium, TestNG
-**Project Description**
+- **Project Description**
 	Our team working along with Zoho and maintaining a re-branded version of Zoho Cloud SaaS product for Japanese market. Our team is responsible for delivering 12 products for SkyDesk. We will work on the existing product and modify the product as per the Japanese market requirement given by the client team. Our team will be sub divided into two member i.e. one developer and one tester who is responsible of 2-3 product deliverables. I will be taking care of development and release of SkyDesk Projects & SalesIQ products. And also work on SkyDesk Docs, Calendar, DRE, Cliq etc.
-**Roles & Responsibilities**
+- **Roles & Responsibilities**
 	- Responsible for developing new features and fixing bugs for 2 Cloud SaaS applications. Design and developed 5 major features and 44+ enhancements.
 	- Developed an automation tool for Japanese translation updates, ensuring seamless translation of user guide documentation and i18n properties integration, resulting in a 15% sales increase in Japan.
 	- Developed a CI/Test Automation tool and framework that automated manual tasks, saving 25 hours of weekly testing and deployment effort and running 1200+ test cases in 4 hours.
@@ -61,10 +61,12 @@ Professional Software Engineer with 9 years of experience, currently pursuing an
 
 **Enhancing Game Level Generation via RLCF-guided MarioGPT @ Postgraduate Dissertation (_May 2024 - September 2024_)**
 - **Technologies Used**: Python, Pytorch, Transformer
+- **Project Description**
 	As part of my master's research, I have researched enhancing the game-level generation capabilities of MarioGPT, a state-of-the-art PCG system for Super Mario games. While MarioGPT can generate ready-to-play game levels directly from text prompts, challenges remain in improving the playability and novelty of the level designs. My research objective is to study the impact of reinforcement learning on MarioGPT. I leveraged reinforcement learning to fine-tune the model to align level generation with enhanced playability and novelty based on feedback from the computer-based evaluator function.
 
 **Cloud Based Application for Map Overlaying and Data Analysis of Geographical Information @ Undergraduate Academic Project (_August 2013 - February 2014_)**
 - **Technologies Used**: Java, Servlet, HTML, Amazon Web Services (DynamoDB, Kinesis), Google map API
+- **Project Description**
 	Developed a cloud based application for storing, data analyzing and creating a customized map with the help of geographical information. Query the geographical data stored in the database with specific constraints to analyze the data and overlay the GPS coordinates on the Google map to provide a map to the user for the respective coordinates. The input for the application is in the form of the GPS coordinates (Longitude and Latitude) with specific information and is stored in the Amazon DynamoDB. DynamoDB is a fully managed NoSQL database service. Amazon Kinesis is a fully managed service for real-time processing of streaming data at massive scale. Kinesis stream is used for replicating the data in the two or more AWS regional server for enhance the availability of data. An android application is also developed to store the GPS coordinate in DynamoDB during the surveying process.
 
 
